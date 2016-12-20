@@ -1,0 +1,2 @@
+# __cdn
+mycdn
